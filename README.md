@@ -1,4 +1,4 @@
-![gispo-logo-rgb](https://github.com/GispoCoding/.github/assets/87303508/748d7db3-28c2-4075-8531-b5dac65e0dbe) (https:www.gispo.fi/en/)
+![gispo-logo-rgb](https://github.com/GispoCoding/.github/assets/87303508/748d7db3-28c2-4075-8531-b5dac65e0dbe)
 
 # Welcome to Gispo's GitHub page
 
