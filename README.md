@@ -9,9 +9,9 @@ Our speciality is FOSS4G (Free and Open Source Software for Geospatial).
 
 ### Tools for end-users
 <ul>
-<li>[Cookiecutter QGIS plugin](https://github.com/GispoCoding/cookiecutter-qgis-plugin)</li>
-<li>[EIS QGIS plugin](https://github.com/GispoCoding/eis_qgis_plugin)</li>
-<li>[EIS toolkit](https://github.com/GispoCoding/eis_toolkit)</li>
+<li> [Cookiecutter QGIS plugin](https://github.com/GispoCoding/cookiecutter-qgis-plugin) </li>
+<li> [EIS QGIS plugin](https://github.com/GispoCoding/eis_qgis_plugin) </li>
+<li> [EIS toolkit](https://github.com/GispoCoding/eis_toolkit) </li>
 <li>[Flake8 plugin for QGIS3 python plugins written in Python](https://github.com/GispoCoding/flake8-qgis)</li>
 <li>[FMI2QGIS](https://github.com/GispoCoding/FMI2QGIS)</li>
 <li>[GeoDesic Tools QGIS plugin](https://github.com/GispoCoding/kimu)</li>
