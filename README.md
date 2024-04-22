@@ -1,4 +1,5 @@
-![Gispo_Hki_2024_pallo](https://github.com/GispoCoding/.github/assets/87303508/e5f8bb4b-1c2c-49b5-aaa8-8167a9c90d49)
+
+![Gispo_Hki_2024_pallo_600x600](https://github.com/GispoCoding/.github/assets/87303508/5d44719f-7727-4e1a-a2cf-882d16f6cb23)
 
 # Welcome to Gispo's GitHub page
 
