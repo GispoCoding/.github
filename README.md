@@ -1,9 +1,9 @@
-
-![Gispo_Hki_2024](https://github.com/GispoCoding/.github/assets/87303508/95a03cc5-3530-4f8d-8342-56161fb5c511)
+![Gispo_Hki_2024_pallo](https://github.com/GispoCoding/.github/assets/87303508/e5f8bb4b-1c2c-49b5-aaa8-8167a9c90d49)
 
 # Welcome to Gispo's GitHub page
 
 Our speciality is FOSS4G (Free and Open Source Software for Geospatial).
+
 
 ## Featured repos
 
