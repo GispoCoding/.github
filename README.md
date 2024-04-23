@@ -1,9 +1,8 @@
-![Gispo_Helsinki_600x600](https://github.com/GispoCoding/.github/assets/87303508/0a052694-a5cf-4b14-9b6a-159949b9d636)
+![Gispo_Hki_harmaa_pallo_600x600](https://github.com/GispoCoding/.github/assets/87303508/61621671-6f59-450c-a1b0-4381a12306f0)
 
 # Welcome to Gispo's GitHub page
 
 Our speciality is FOSS4G (Free and Open Source Software for Geospatial).
-
 
 ## Featured repos
 
