@@ -1,4 +1,4 @@
-![Gispo_Helsinki_2024_600x600](https://github.com/GispoCoding/.github/assets/87303508/23c4e641-af92-430d-a30f-11f55ca13357)
+![Gispo_Helsinki_600x600](https://github.com/GispoCoding/.github/assets/87303508/0a052694-a5cf-4b14-9b6a-159949b9d636)
 
 # Welcome to Gispo's GitHub page
 
