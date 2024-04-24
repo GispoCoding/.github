@@ -1,4 +1,6 @@
+<div style="text-align: center;">
 ![Gispo_Hki_2024_pallo_600x600](https://github.com/GispoCoding/.github/assets/87303508/6ad4cb6f-6b73-415e-b352-d885b3e18145)
+</div>
 
 # Welcome to Gispo's GitHub page
 
