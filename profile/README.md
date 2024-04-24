@@ -47,4 +47,4 @@ For more information about who we are and what we do, check out [our webiste](ht
 
 ## Have questions / requests / feedback?
 
-Send as an email to info@gispo.fi !
+Send us an email to info@gispo.fi !
