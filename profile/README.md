@@ -1,6 +1,11 @@
-<div style="text-align: center;">
-![Gispo_Hki_2024_pallo_600x600](https://github.com/GispoCoding/.github/assets/87303508/6ad4cb6f-6b73-415e-b352-d885b3e18145)
-</div>
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 75%;"
+    src="https://github.com/GispoCoding/.github/assets/87303508/6ad4cb6f-6b73-415e-b352-d885b3e18145" 
+    alt="Gispo's logo">
+</img>
 
 # Welcome to Gispo's GitHub page
 
