@@ -10,7 +10,7 @@
 # Welcome to Gispo's GitHub page
 
 Our speciality is FOSS4G (Free and Open Source Software for Geospatial). Open data, open source and spatial data are our main interests.
-For more information about who we are and what we do, check out [our webiste](https://www.gispo.fi/en/)
+For more information about who we are and what we do, check out [our website](https://www.gispo.fi/en/)
 
 ## Featured repos
 
