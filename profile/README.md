@@ -16,13 +16,10 @@ For more information about who we are and what we do, check out [our website](ht
 
 ### Tools for end-users
 
-* [Cookiecutter QGIS plugin](https://github.com/GispoCoding/cookiecutter-qgis-plugin) 	
 * [EIS QGIS plugin](https://github.com/GispoCoding/eis_qgis_plugin) 	
 * [EIS toolkit](https://github.com/GispoCoding/eis_toolkit) 	
-* [Flake8 plugin for QGIS3 python plugins written in Python](https://github.com/GispoCoding/flake8-qgis)	
 * [FMI2QGIS](https://github.com/GispoCoding/FMI2QGIS)	
 * [GeoDesic Tools QGIS plugin](https://github.com/GispoCoding/kimu)	
-* [GeoServer scripts](https://github.com/GispoCoding/geoserver-scripts)	
 * [GeoSpatial text analysis](https://github.com/GispoCoding/geospatial-text-analysis)	
 * [Globe Builder](https://github.com/GispoCoding/GlobeBuilder)	
 * [KuntaGML plugin](https://github.com/GispoCoding/KuntaGML-QGIS-plugin)	
@@ -35,15 +32,21 @@ For more information about who we are and what we do, check out [our website](ht
 * [GeoViz Notebooks](https://github.com/GispoCoding/geoviz-notebooks)	
 * [NGZ GeoViz](https://github.com/GispoCoding/ngz-geoviz)	
 
+### Developer tools
+
+* [QGIS plugin template for Cookiecutter](https://github.com/GispoCoding/cookiecutter-qgis-plugin) 	
+* [Address parser](https://github.com/GispoCoding/addr-parser)	
+* [A Pytest plugin for QGIS plugin testing](https://github.com/GispoCoding/pytest-qgis)	
+* [QGIS plugin tools](https://github.com/GispoCoding/qgis_plugin_tools)	
+* [Flake8 plugin for QGIS plugins](https://github.com/GispoCoding/flake8-qgis)	
+
 ### Miscellaneous
 
-* [Address parser](https://github.com/GispoCoding/addr-parser)	
 * [Cloud Free Satellite Imagery](https://github.com/GispoCoding/CFSI)	
 * [Custom vector tiles](https://github.com/GispoCoding/custom-vectortiles)	
 * [GIS Containers](https://github.com/GispoCoding/gis-containers)	
 * [InfraO](https://github.com/GispoCoding/infraO-open)	
-* [A pytest plugin for testing QGIS Python plugins](https://github.com/GispoCoding/pytest-qgis)	
-* [QGIS plugin tools](https://github.com/GispoCoding/qgis_plugin_tools)	
+* [GeoServer scripts](https://github.com/GispoCoding/geoserver-scripts)	
 
 ## Have questions / requests / feedback?
 
