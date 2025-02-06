@@ -14,23 +14,34 @@ For more information about who we are and what we do, check out [our website](ht
 
 ## Featured repos
 
-### Tools for end-users
+### QGIS tools for end-users
 
+* [ARHO Feature Template plugin for land use planning](https://github.com/GispoCoding/arho-feature-template)
+* [Catchment plugin for calculating catchment areas with Graphhopper](https://github.com/GispoCoding/school-catchment-plugin/)
 * [EIS QGIS plugin](https://github.com/GispoCoding/eis_qgis_plugin) 	
 * [EIS toolkit](https://github.com/GispoCoding/eis_toolkit) 	
 * [FMI2QGIS](https://github.com/GispoCoding/FMI2QGIS)	
-* [GeoDesic Tools QGIS plugin](https://github.com/GispoCoding/kimu)	
-* [GeoSpatial text analysis](https://github.com/GispoCoding/geospatial-text-analysis)	
+* [GeoDesic Tools QGIS plugin](https://github.com/GispoCoding/kimu)
 * [Globe Builder](https://github.com/GispoCoding/GlobeBuilder)	
 * [KuntaGML plugin](https://github.com/GispoCoding/KuntaGML-QGIS-plugin)	
 * [National Land Survey GeoPackage Downloader](https://github.com/GispoCoding/NLSgpkgloader)	
 * [QGIS Visualization Workshop](https://github.com/GispoCoding/QGIS-visualization-workshop)	
-* [QGIS Digitransit Geocoder](https://github.com/GispoCoding/QGISDigitransitGeocoding)	
+* [QGIS Digitransit Geocoder](https://github.com/GispoCoding/QGISDigitransitGeocoding)
 
-### Web based applications
+### Web applications
 
+* [Tarmo Mobile outdoor map](https://github.com/gispoCoding/tarmo)
 * [GeoViz Notebooks](https://github.com/GispoCoding/geoviz-notebooks)	
 * [NGZ GeoViz](https://github.com/GispoCoding/ngz-geoviz)	
+
+### Geospatial databases
+
+* [ARHO Ryhti land use planning database](https://github.com/GispoCoding/arho-ryhti)
+
+### Jupyter notebooks
+
+* [GeoSpatial text analysis](https://github.com/GispoCoding/geospatial-text-analysis)
+* [GeoViz Notebooks](https://github.com/GispoCoding/geoviz-notebooks)
 
 ### Developer tools
 
